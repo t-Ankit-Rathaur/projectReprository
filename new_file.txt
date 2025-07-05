@@ -1,5 +1,0 @@
-This is the new file that's haveing added into the the project-reporitory
-# Replaing the [1,2] by corresponds ['Card','Cash']
-df['payment_type'].replace([1,2],['Card','Cash'], inplace=True]
-for this date is 04-02-2003
-This is Ankit Rathaur, currently doing so many projects.
